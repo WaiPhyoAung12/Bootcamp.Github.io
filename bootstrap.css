@@ -1,0 +1,6 @@
+.mainbg{
+    
+    background-image:image-set(url('/images/city.jpg'));
+    background-size: cover;
+   
+}
